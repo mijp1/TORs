@@ -37,7 +37,7 @@ participate in the group from time to time, should the need arise.
 The group will meet quarterly, synchronised with the N8-CIR Steering Group. One meeting per year may be of extended 
 membership (i.e. not limited to one representative per site).
 
-##Communications
+## Communications
 An email list will be used for group communications, minutes of the meeting will be made available and a verbal update 
 given to the steering group.
 
@@ -60,7 +60,7 @@ programme (e.g. software/skills development).
 - To act jointly, where appropriate, to create critical mass that positions N8-CIR favourably towards investment
 (e.g. funding, training opportunities, access to technologies). 
 
-# Example activities
+## Example activities
 Examples of activities which the PWG provides direct benefit include:
 - Acting as a focal point for the coordination of National HPC training within the region.
 - Proof-of-concept development, e.g. execution of workloads on cloud infrastructures.
