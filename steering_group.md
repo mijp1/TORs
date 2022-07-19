@@ -22,9 +22,7 @@ will include:
 
 ## Membership
 Each partner institution shall appoint one member of the Steering Group to act as its representative. Only members 
-of the Steering Group may vote. Each Steering Group member should have and maintain a good liaison with their PVC-R 
-or equivalent and other university stakeholders. Users and the community will be encouraged to contact Steering Group 
-members in order to give feedback or raise topics to N8 CIR.
+of the Steering Group may vote. 
 
 Each institution can also have an observer on the Steering Group who will act as deputy if the member for that 
 institution cannot attend. Each active CIR theme may have an observer on the Steering Group.  Observers will not 
@@ -34,6 +32,12 @@ attendance.
 The membership and the Terms of Reference of the Steering Group will be reviewed annually.  Members of the community 
 may put themselves forward as the Steering Group member for their institution (if it is a partner) through a link on 
 the N8 CIR Governance website page but only their institution may appoint.
+
+## Responsibilities
+Each Steering Group member should:
+- engage with their local community ahead of each meeting to gain feedback and/or raise topics to N8 CIR,
+- prepare for each meeting beforehand, and nominate a deputy if they cannot attend themselves,
+- have and maintain a good liaison with their PVC-R or equivalent and other university stakeholders. 
 
 ## Frequency of Meetings
 The Steering Group meetings should be held quarterly with interim meetings if required.  The meeting will be 
